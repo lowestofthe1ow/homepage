@@ -1,6 +1,6 @@
 @font-face {
     font-family: "NewComputerModernSans10";
-    src: url(/fonts/NewCMSans10-Book.otf);
+    src: url("../fonts/NewCMSans10-Book.otf");
 }
 
 .data__summary {
